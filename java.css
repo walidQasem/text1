@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+       font-family: 'Abril Fatface', cursive;
+    font-family: 'Mea Culpa', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Spartan', sans-serif;
+    text-decoration: none;
+}
+.puch{
+    display: grid;
+display: flex;
+margin-left: 120px;
+padding-top: 20px;
+}
+.go{
+    margin-left: 10px;
+}
+.oo{
+    display: block;
+    width: 60px;
+    border: 1px solid rgb(172, 172, 172);
+    margin: 10px;
+    border-radius: 10px;
+}
+.oo:hover{
+    transform: scale(1,1);
+}
+.ro{
+    width: 300px;
+}
+.ro:hover{
+    transform: scale(2,2);
+    transition: 1s;
+}
+.go img{
+    
+}
+.vv{
+    margin-left: 20px;
+}
+.vv p{
+    font-weight: bold;color: blue;
+}
